@@ -1,15 +1,28 @@
-Currency Converter - MERN Stack
-A simple currency converter application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to convert between various currencies.
+# Currency Converter - MERN Stack
 
-Features
-Real-time currency conversion using live exchange rates.
-User-friendly interface built with React.
-Currency data fetched from an API.
-Backend logic in Express.js and Node.js.
+A simple currency converter application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) that allows users to convert between various currencies.
 
-Tech Stack
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB (optional if you decide to store historical data or user preferences)
-API: Currency Exchange Rate API (e.g., exchangeratesapi.io)
+---
 
+## Features
+
+- **Real-time Currency Conversion:**  
+  Convert between multiple currencies using live exchange rates.
+  
+- **User-Friendly Interface:**  
+  Built with **React** for an interactive and responsive user experience.
+  
+- **Currency Data Fetching:**  
+  Currency rates are fetched from an external API.
+  
+- **Backend Logic:**  
+  Built with **Express.js** and **Node.js** to handle data fetching and conversion logic.
+
+---
+
+## Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB 
+- **API:** Currency Exchange Rate API
